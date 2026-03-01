@@ -286,7 +286,7 @@ else:
 
 ## Support  
 
-For questions, feature requests, or to report issues, please contact the EZ Tiers development team at **api@eztiers.example.com** (placeholder – replace with actual support email).  
+For questions, feature requests, or to report issues, please contact the EZ Tiers development team at **rayzz.office@gmail.com**
 
 ---
 
